@@ -1,0 +1,13 @@
+venv/
+# Ignore media files
+*.mp4
+*.mp3
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+*.png
+*.jpg
+*.jpeg
+*.gif
